@@ -10,7 +10,7 @@ str01 = "python is good language"
 # for index in range(len(str01)):
 #   print(str01[index])
 #
-# for i in str01:
+# for i in str01:。
 #     print(i)
 
 str01_split = str01.split()
